@@ -1,1 +1,2 @@
 name: Team's excellent approval workflow
+on: pull_request_review
